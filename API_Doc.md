@@ -1,6 +1,6 @@
 # DMoney API Documentation — Assignment Flow
 
-> Companion documents: [Testcase.md](./Testcase.md) (test design) · [redme.md](./redme.md) (assignment overview) · [nodeman.md](./nodeman.md) (Newman run & report)
+> Companion documents: [Testcase.md](./Testcase.md) (test design) · [README.md](./README.md) (assignment overview) · [collection/Reports/report.html](./collection/Reports/report.html) (Newman run report)
 >
 > Base URL: `http://localhost:5000` · Full interactive Swagger docs: `http://localhost:5000/api-docs/user` and `http://localhost:5000/api-docs/transaction` (also see [API_ENDPOINTS_SUMMARY.md](../../dmoney-transaction-api/swagger/API_ENDPOINTS_SUMMARY.md) in the API repo).
 >
